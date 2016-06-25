@@ -12,6 +12,7 @@
 {
     
     int a;
+    BOOL is;
 }
 
 @end
